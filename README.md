@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-I'm a final-year Computer Science student passionate about Machine Learning, AI systems, and full-stack development. I enjoy turning data and ideas into working products — from RAG pipelines to full-stack platforms.
+I'm a final-year Computer Science student passionate about Machine Learning, AI systems, and full-stack development. I enjoy turning data and ideas into working products — from RAG pipelines to full-stack applications.
 
 Currently interning as a Data Scientist at Celebal Technologies, working through hands-on ML/AI projects every week — from classical ML pipelines to deep learning, generative AI, and retrieval-augmented systems.
 
@@ -30,7 +30,7 @@ Currently interning as a Data Scientist at Celebal Technologies, working through
 
 **ML/AI:** TensorFlow, Scikit-learn, XGBoost, Sentence-Transformers, FAISS
 
-**Web:** React, Spring Boot, Django, Node.js, MongoDB, MySQL , Express.js
+**Web:** React, Spring Boot, Django, Node.js, MongoDB, MySQL, Express.js
 
 **Tools:** Git, Docker, Streamlit, Google Colab
 
@@ -41,6 +41,12 @@ Currently interning as a Data Scientist at Celebal Technologies, working through
 - **Customer Intelligence System** — Ensemble methods (Random Forest, XGBoost) + clustering (K-Means, DBSCAN)
 - **Smart Leads Dashboard** — React, Node.js, MongoDB, Docker
 - **E-Waste Image Classifier** — TensorFlow, MobileNetV2, Streamlit
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-mishra-798)
 
 ---
 
