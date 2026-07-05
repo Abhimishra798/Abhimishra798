@@ -8,9 +8,9 @@
 
 ## 💡 About Me
 
-I'm a final-year Computer Science student passionate about Machine Learning, AI systems, and full-stack development. I enjoy turning data and ideas into working products — from RAG pipelines to full-stack applications.
+I'm a final-year Computer Science student passionate about Machine Learning, AI systems, and full-stack development. I enjoy turning data and ideas into working products — from RAG pipelines to [...]
 
-Currently interning as a Data Scientist at Celebal Technologies, working through hands-on ML/AI projects every week — from classical ML pipelines to deep learning, generative AI, and retrieval-augmented systems.
+Currently interning as a Data Scientist at Celebal Technologies, working through hands-on ML/AI projects every week — from classical ML pipelines to deep learning, generative AI, and retrieval-a[...]
 
 ---
 
@@ -46,7 +46,7 @@ Currently interning as a Data Scientist at Celebal Technologies, working through
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-mishra-798)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-mishra-798/)
 
 ---
 
