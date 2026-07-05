@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Abhinav
+## 👋 Hello, I'm Abhinav Mishra
 
 **Building. Debugging. Shipping.**
 
@@ -30,7 +30,7 @@ Currently interning as a Data Scientist at Celebal Technologies, working through
 
 **ML/AI:** TensorFlow, Scikit-learn, XGBoost, Sentence-Transformers, FAISS
 
-**Web:** React, Spring Boot, Django, Node.js, MongoDB, MySQL , express.js
+**Web:** React, Spring Boot, Django, Node.js, MongoDB, MySQL , Express.js
 
 **Tools:** Git, Docker, Streamlit, Google Colab
 
