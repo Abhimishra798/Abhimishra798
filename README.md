@@ -30,15 +30,13 @@ Currently interning as a Data Scientist at Celebal Technologies, working through
 
 **ML/AI:** TensorFlow, Scikit-learn, XGBoost, Sentence-Transformers, FAISS
 
-**Web:** React, Spring Boot, Django, Node.js, MongoDB, MySQL
+**Web:** React, Spring Boot, Django, Node.js, MongoDB, MySQL , express.js
 
 **Tools:** Git, Docker, Streamlit, Google Colab
 
 ---
 
 ## 📌 Featured Projects
-
-- **RAG Document Q&A System** — Streamlit app using sentence-transformers, FAISS & T5
 - **AutoInsight AI** — Django REST + React + MySQL + TypeScript
 - **Customer Intelligence System** — Ensemble methods (Random Forest, XGBoost) + clustering (K-Means, DBSCAN)
 - **Smart Leads Dashboard** — React, Node.js, MongoDB, Docker
